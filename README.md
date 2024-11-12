@@ -1,1 +1,1 @@
-# test-template-app1
+# test-template
